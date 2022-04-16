@@ -1,5 +1,4 @@
 <?php
-    while(true) {
-        echo 'coding everybody';
-    }
+$name = 'egoing';
+echo $name;
 ?>
